@@ -1,6 +1,7 @@
 #Requirements
 1. Python 3.x.x
-2. Pandas library 
+2. Pandas library ติดตั้ง pip install pandas
+3. Openpyxl library ติดตั้ง pip install openpyxl
 
 #การรันข้อมูล
  1. ใช้ Vs code เปิด folder devpool
