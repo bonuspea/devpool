@@ -1,7 +1,7 @@
 import random
 import pandas as pd
 
-student = pd.read_excel('/Users/bonus/workspace/devpool/peple.xlsx',sheet_name='Sheet1') 
+student = pd.read_excel('people.xlsx',sheet_name='Sheet1') 
 students = student['name'].tolist()
 
 def make_random_groups(students, number_of_groups):
