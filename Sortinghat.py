@@ -23,6 +23,6 @@ def make_random_groups(students, number_of_groups):
         print(f"number of people :{len(group)}")
         print('----------------')
     
-    
+    print(len(students))
 
 make_random_groups(students, 4)
